@@ -19,7 +19,7 @@
 
  
  
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nefin_m_s)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._)
 
 
 
@@ -27,12 +27,10 @@
 **Cat-of-Tg/Cat-of-Tg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Im currently student on Class 9 🤭
+Learning Python, java 💞
+I think i will be a programmer 🙈
+How to reach me: nefinmsaji@gmail.com 💥
+
+
 -->
