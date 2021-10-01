@@ -1,6 +1,6 @@
 # Hola, I M Nefin m s <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 60 align = "right">
 
- POISON CATBOY
+ POISON CATBO❗️
 
 <a href="https://t.me/Ok_bie_bot">
 <p align="center">
@@ -23,8 +23,8 @@
 
 
 
-<!--
-**Cat-of-Tg/Cat-of-Tg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+"""
 
 
 Im currently student on Class 9 🤭
@@ -32,5 +32,4 @@ Learning Python, java 💞
 I think i will be a programmer 🙈
 How to reach me: nefinmsaji@gmail.com 💥
 
-
--->
+"""
