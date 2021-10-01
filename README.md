@@ -25,16 +25,4 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._)
 
 
-
-## ABOUT ME
-
-
-'i m currently student on Class 9 🤭'
-
-'Learning Python, java 💞'
-
-'I think i will be a programmer 🙈'
-
-'How to reach me: nefinmsaji@gmail.com 💥'
-
-"""
+<img src = https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif width = 600 align="centre">
