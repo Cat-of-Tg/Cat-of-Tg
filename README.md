@@ -11,13 +11,13 @@
 
 ## Contact Me 💙
 
-<img src = https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif width = 80 align = "right">
+<img src = https://i.gifer.com/origin/73/733ba89fd97c024f450080bf31f81174_w200.gif width = 120 align = "right">
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cat-of-Tg)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ok_bie_bot)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._)
 
-## TEAM 💞
+## TEAM 🖤
 
  [![Maintenance](https://img.shields.io/badge/❤_CAT_HUB-%23E4405F.svg)](https://t.me/cat_of_tg) ^
 [![Maintenance](https://img.shields.io/badge/🍫_TEAM_LAD-%23E4505F.svg)](https://t.me/Team_lad)
