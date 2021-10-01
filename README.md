@@ -23,13 +23,12 @@
 
 
 
+## ABOUT ME
 
-"""
 
-
-Im currently student on Class 9 🤭
-Learning Python, java 💞
-I think i will be a programmer 🙈
-How to reach me: nefinmsaji@gmail.com 💥
+'i m currently student on Class 9 🤭'
+'Learning Python, java 💞'
+'I think i will be a programmer 🙈'
+'How to reach me: nefinmsaji@gmail.com 💥'
 
 """
