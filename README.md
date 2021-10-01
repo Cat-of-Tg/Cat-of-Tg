@@ -4,7 +4,7 @@
 
 <a href="https://t.me/Ok_bie_bot">
 <p align="center">
-  <img src="https://telegra.ph/file/a8fe83551c6d1272f27b1.jpg">
+  <img src="https://telegra.ph/file/74cf79433a32a4a134034.jpg">
 </p>
 
 ## Contact Me on
