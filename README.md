@@ -19,15 +19,11 @@
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ok_bie_bot)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._)
 
-## TEAM 🖤
-
- [![Maintenance](https://img.shields.io/badge/❤_CAT_HUB-%23E4405F.svg)](https://t.me/cat_of_tg) ^
-[![Maintenance](https://img.shields.io/badge/🍫_TEAM_LAD-%23E4505F.svg)](https://t.me/Team_lad)
-
 
 
  
- 
+ [![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=chartreuse-dark&show_icons=true)](https://github.com/cat-of-tg/github-readme-stats)
+
 
 
 
