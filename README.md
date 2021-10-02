@@ -9,9 +9,11 @@
 </p>
 
 
+
+
 ## Contact Me 💙
 
-<img src = https://i.gifer.com/origin/73/733ba89fd97c024f450080bf31f81174_w200.gif width = 120 align = "right">
+<img src = https://i.gifer.com/origin/73/733ba89fd97c024f450080bf31f81174_w200.gif width = 118 align = "right">
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cat-of-Tg)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ok_bie_bot)
@@ -30,3 +32,6 @@
 
 
 <img src = https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif width = 600 align="centre">
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Cat-of-tg.Cat-of-tg)
