@@ -13,7 +13,7 @@ POISON CAT BOI
 
 ## Contact Me 💙
 
-<img src = https://thumbs.gfycat.com/SimilarDistortedHuman-size_restricted.gif width = 120 align = "right">
+<img src = https://thumbs.gfycat.com/SimilarDistortedHuman-size_restricted.gif width = 119 align = "right">
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cat-of-Tg)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ok_bie_bot)
