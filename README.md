@@ -1,4 +1,4 @@
-# CAT OF TG <img src = https://gifdownload.net/wp-content/uploads/2019/01/dancing-anime-gif-transparent-6.gif width = 180 align = "right"> 
+# CAT OF TG <img src = https://gifdownload.net/wp-content/uploads/2019/01/dancing-anime-gif-transparent-6.gif width = 178 align = "right"> 
 
 
   -ᴘᴏɪsᴏɴ-
