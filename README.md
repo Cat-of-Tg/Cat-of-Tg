@@ -1,8 +1,7 @@
 # CAT OF TG <img src = https://gifdownload.net/wp-content/uploads/2019/01/dancing-anime-gif-transparent-6.gif width = 178 align = "right"> 
 
 
-  -ᴘᴏɪsᴏɴ-
- ᴄᴀᴛ ʙᴏɪ
+ᴘᴏɪsᴏɴ ᴄᴀᴛ ʙᴏɪ
 
 
  <img src = https://im6.ezgif.com/tmp/ezgif-6-525a11922897.gif width = 600 align = "center">
