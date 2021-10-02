@@ -6,7 +6,7 @@ POISON CAT BOI
 
 <a href="https://t.me/Ok_bie_bot">
 <p align="center">
-  <img src="https://telegra.ph/file/0a5ec3dfa99b891df8ebd.jpg">
+  <img src="https://telegra.ph/file/4d554d23a647e7af33d3c.jpg">
 </p>
 
 
