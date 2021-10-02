@@ -5,7 +5,7 @@
 cαт вoι
 
 
- <img src = https://im6.ezgif.com/tmp/ezgif-6-525a11922897.gif width = 600 align = "center">
+ <img src = https://im6.ezgif.com/tmp/ezgif-6-525a11922897.gif width = 6000 align = "center">
 
 <a href="https://t.me/Ok_bie_bot">
 <p align="center">
