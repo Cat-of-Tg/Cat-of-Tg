@@ -5,7 +5,7 @@
 cαт вoι
 
 
- <img src =  width = 6000 align = "center">
+ 
 
 <a href="https://t.me/Ok_bie_bot">
 <p align="center">
