@@ -30,4 +30,4 @@
 <img src = https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif width = 600 align="centre">
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Cat-of-tg.Cat-of-tg)
+
