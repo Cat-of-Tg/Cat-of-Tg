@@ -9,16 +9,20 @@
 
 
 # AႦσυƚ Mҽ
-##### <b>| ɴᴀᴍᴇ : ɴᴇᴈɪɴ ᴍᴤ | </b>
-##### <b>| ᴄᴜʀʀᴇɴᴛʟʏ ᴤᴛᴜᴅʏɪɴɢ | </b>
-##### <b>| ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ,ᴊᴀᴠᴀ | </b>
-##### <b>| ᴤᴛᴅ : 9 | </b>
-##### <b>| ᴈʀᴏᴍ ɪɴᴅɪᴀ |</b>
-##### <b>| ꜰᴜᴛᴜʀᴇ ɪ ᴡɪʟʟ ʙᴇ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ 🙆|</b>
+
+<img src = https://cdn2.scratch.mit.edu/get_image/gallery/27590955_170x100.png width = 120 align ="right">
+
+  ɴᴀᴍᴇ : ɴᴇᴈɪɴ ᴍᴤ | |
+  ᴄᴜʀʀᴇɴᴛʟʏ ᴤᴛᴜᴅʏɪɴɢ | |
+  ᴤᴛᴅ : 9 | |
+  ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ,ᴊᴀᴠᴀ | |
+  ᴈʀᴏᴍ ɪɴᴅɪᴀ | |
+
+  ꜰᴜᴛᴜʀᴇ ɪ ᴡɪʟʟ ʙᴇ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ 🙆
 
 ##  яεαcн мε
 
-<img src = https://thumbs.gfycat.com/SimilarDistortedHuman-size_restricted.gif width = 115 align = "right">
+<img src = https://thumbs.gfycat.com/SimilarDistortedHuman-size_restricted.gif width = 115 align = "left">
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cat-of-Tg)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ok_bie_bot)
