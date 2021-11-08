@@ -18,8 +18,6 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_cat_boi._)
 
 
-<details><summary>𝗦𝗧𝗔𝗧𝗦🚀 </summary>
 
 
-[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=chartreuse-dark&show_icons=true)](https://github.com/cat-of-tg/github-readme-stats)
- </details>
+[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=chartreuse-dark&show_icons=true&hide_border=true)](https://github.com/cat-of-tg/github-readme-stats)
