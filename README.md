@@ -20,4 +20,4 @@
 
 
 
-[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=chartreuse-dark&show_icons=true&hide_border=true)](https://github.com/cat-of-tg/github-readme-stats)
+[![cat-of-tg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cat-of-tg&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&hide_rank=false&line_height=25&hide_title=true)](https://github.com/cat-of-tg/github-readme-stats)
