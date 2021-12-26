@@ -5,7 +5,7 @@
 ┣ ***RL NAME : NEFIN M S 🧸***                                                                                       
 ┣  ***TG NAME : POISON***                                                             
 ┣  ***CURRENTLY STUDYING  🍫***                   
-┣  ***STD : 9 🌈***            
+┣  ***STD : 0***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***                            
 ┣  ***BLINK***  , ***CHOICE***  💜                    
