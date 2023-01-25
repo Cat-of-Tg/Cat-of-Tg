@@ -8,7 +8,7 @@
 ┣  ***STD : 0***            
 ┣  ***LEARNING PYTHON,JAVA*** ⚡️                            
 ┣ ***FROM INDIA [🇮🇳]***                            
-┣  ***BLINK***  , ***CHOICE***  💜                    
+┣  ***CHOICE***  💜                    
 ┣  ***TZUYU ADDICT*** 💝                        
 ┗ ━ ━ ━ ━ ━ ━ 
 
